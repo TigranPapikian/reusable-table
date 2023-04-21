@@ -1,0 +1,11 @@
+export const APP_SECRET = "app_secret";
+export const APP_USER_PASS = "app_user_pass";
+export const USER_LOGGED_IN = "User logged in";
+export const GENERATE_NEW_SECRET = "Generate new secret";
+export const LOG_OUT = "Log out";
+export const LOGIN = "Login";
+export const RESET_APP = "Reset app";
+export const CHROME_HASHING_EXTENSION = "Chrome Hashing extension";
+export const SECRET_KEY = "Secret Key";
+export const CREATE_PASSWORD = "Create Password";
+export const SAVE_PASSWORD = "Save Password";
